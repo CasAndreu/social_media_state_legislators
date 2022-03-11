@@ -31,4 +31,16 @@ The `./code/` directory contains separate scripts to replicate each analytical f
 
 - [`04-figure02.R`](https://github.com/CasAndreu/social_media_state_legislators/blob/main/code/04-figure02.R): To replicate Figure 2 of the paper, showing the results for three statistical models predicting Being on Twitter, Being Active, and iscussing Policy Issues.
 
-<img src = "https://github.com/CasAndreu/social_media_state_legislators/blob/main/figures/figure02-SAFE.pdf">
+<img src = "https://github.com/CasAndreu/social_media_state_legislators/blob/main/images/figure02-SAFE.png">
+
+- [`05-figure03.R`](https://github.com/CasAndreu/social_media_state_legislators/blob/main/code/05-figure03.R): To replicate Figure 3 of the paper, showing the results OLS models predicting the proportion of tweets legislators dedicate to discussing each topic as a function of being on a committee on the topic
+
+<img src = "https://github.com/CasAndreu/social_media_state_legislators/blob/main/images/figure03-SAFE.png">
+
+- [`06-figure04.R`](https://github.com/CasAndreu/social_media_state_legislators/blob/main/code/06-figure04.R): To replicate Figure 4 of the paper, showing Proportion of attention that legislators from each state devoted to each issue area in 2018
+
+<img src = "https://github.com/CasAndreu/social_media_state_legislators/blob/main/images/figure04-SAFE.png">
+
+- [`07-figure05.R`](https://github.com/CasAndreu/social_media_state_legislators/blob/main/code/07-figure05.R): To replicate Figure 5 of the paper, Comparing attention by representatives in Congress and State Legislators
+
+<img src = "https://github.com/CasAndreu/social_media_state_legislators/blob/main/images/figure05-SAFE.png">
